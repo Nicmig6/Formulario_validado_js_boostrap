@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blue;
+    font-size: 20px;
+}
+h1{
+    font-weight: bolder;
+    color:blue;
+    text-align: center;
+
+}
+.usuarioContraseña{
+    margin-left: 30px;
+    background-color: lightblue;
+    color:black;
+}
+.usuario{
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+}
+.contraseña{
+  font-size: 30px;
+  font-weight: bold;
+  color: blue;
+}
+
+.datos{
+  font-size: 30px;
+  color: blue;
+  font-weight: bold;
+}
